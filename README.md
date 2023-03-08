@@ -20,5 +20,5 @@
 
 <h3> Github Statistics <h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascasadoprime&show_icons=true&locale=en" alt="lucascasadoprime" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascasadoprime&show_icons=true&locale=en&theme=transparent" alt="lucascasadoprime" /></p>
 
