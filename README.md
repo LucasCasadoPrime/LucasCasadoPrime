@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lucas Casado</h1>
-<h3 align="center">A passionate Epitech student from France</h3>
+<h1> Hi, I'm Lucas Casado</h1>
 
+
+<h1> Who I am ?</h1>
+<h3>A passionate Epitech student from France</h3>
 - 🔭 I’m currently working on [IFTTT clone](https://github.com/LucasCasadoPrime/Areact.js)
 
 - 🌱 I’m currently learning **C++,Mongo,Node,React,Java**
