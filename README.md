@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C, Pyhton**
 
-- 📫 How to reach me **lucascasado@hotmail.fr**
+- 📫 How to reach me on my Discord **Warsoft#9835**
 
 
 <h3 align="left">Languages and Tools:</h3>
