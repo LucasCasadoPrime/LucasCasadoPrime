@@ -1,7 +1,7 @@
 <h1> Hi, I'm Lucas Casado</h1>
 
 
-<h1> Who I am ?</h1>
+<h1> Who am I ?</h1>
 <h3>I'm a passionate Epitech student from France</h3>
 
 - 🔭 I’m currently working on [IFTTT clone](https://github.com/LucasCasadoPrime/Areact.js)
