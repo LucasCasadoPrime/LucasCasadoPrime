@@ -7,13 +7,19 @@ Here's an updated version of your GitHub profile README to reflect your current 
 <h1> Hi, I'm Lucas Casado</h1>
 <h1> Who am I ?</h1>
 <h3>I'm a passionate Epitech student from France studying Data and AI</h3>
-- 🔭 I’m currently working on IFTTT clone
-- 🌱 I’m currently learning C++, MongoDB, Node.js, React, Java
-- 👨‍💻 All of my projects are available at github.com/LucasCasadoPrime
-- 💬 Ask me about C, Python
-- 📫 How to reach me on my Discord: Warsoft#9835
+- 🔭 I’m currently working on an [Survey Maker](https://github.com/LucasCasadoPrime/Votira)
+
+- 🌱 I’m currently learning **Java, Angular**
+
+- 👨‍💻 All of my projects are available at [github.com/LucasCasadoPrime](github.com/LucasCasadoPrime)
+
+- 💬 Ask me about **C, Pyhton, Java**
+
+- 📫 How to reach me on my Discord **Warsoft#9835**
+
 - 💼 Currently an alternant developer at ESII
-- 🚀 Skilled in Java, Spring Boot, AngularJS
+
+- 🚀 Skilled in Java, Spring Boot, AngularJS 
 
 
 <h3 align="left">Languages and Tools:</h3>
