@@ -1,10 +1,4 @@
 <h1> Hi, I'm Lucas Casado</h1>
-
-
-
-Here's an updated version of your GitHub profile README to reflect your current status and skills:
-
-<h1> Hi, I'm Lucas Casado</h1>
 <h1> Who am I ?</h1>
 <h3>I'm a passionate Epitech student from France studying Data and AI</h3>
 - 🔭 I’m currently working on an [Survey Maker](https://github.com/LucasCasadoPrime/Votira)
