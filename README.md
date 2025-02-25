@@ -9,8 +9,6 @@
 
 - 📫 How to reach me on my Discord **Warsoft#9835**
 
-- 💼 Currently an alternant developer at ESII
-
 - 🚀 Skilled in Java, Spring Boot, AngularJS 
 
 
