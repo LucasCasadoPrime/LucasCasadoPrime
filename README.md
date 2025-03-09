@@ -1,5 +1,4 @@
-<h3>I'm a passionate Epitech student from France studying Data and AI</h3>
-- 🔭 I’m currently working on an [Survey Maker](https://github.com/LucasCasadoPrime/Votira)
+<h3>I'm a passionate Epitech student from France studying Data and AI</h>
 
 - 🌱 I’m currently learning **Java, Angular**
 
